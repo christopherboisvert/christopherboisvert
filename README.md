@@ -4,7 +4,6 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 <br />
 <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
