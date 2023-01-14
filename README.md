@@ -14,4 +14,6 @@
 <img alt="CSharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<br />
+<br />
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherboisvert)](https://github.com/christopherboisvert/github-readme-stats)
