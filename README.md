@@ -16,4 +16,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <br />
 <br />
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherboisvert)](https://github.com/christopherboisvert/github-readme-stats)
+[![Christopher's GitHub stats](http://github-readme-stats-christopherboisvert.vercel.app/?api=christopherboisvert)](https://github.com/christopherboisvert/github-readme-stats)
